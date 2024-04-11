@@ -1,1 +1,30 @@
-/* Add screen styles below */
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+body {
+    background-color: beige;
+}
+
+h1{
+    font-family: "Abel";
+}
+
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+img{
+    border-radius: 5%;
+}
+
+h2{
+    text-align:center;
+    font-family: "Abel";
+}
+
+.post{
+    text-align: center;
+    font-family: "abel";
+}
